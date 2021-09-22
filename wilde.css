@@ -1,0 +1,42 @@
+.speech {
+font-family: 'Times New Roman', Times, serif;
+font-size: 12pt;
+color: black;
+}
+
+.stage_directions{
+font-family: sans-serif;
+font-size: 12pt;
+color: black;
+background-color: lightblue;
+}
+.stage_directions:hover{
+    background-color: lightslategray;
+    color: ivory;
+}
+
+.name {
+font-family: 'Times New Roman', Times, serif;
+font-size: 14pt;
+color: black;
+}
+
+.prince {
+    color: midnightblue;
+}
+
+.baron {
+    color: orange;
+}
+
+.marq {
+    color: red;
+}
+
+.count {
+    color: steelblue;
+}
+
+.gen {
+    color: salmon;
+}
