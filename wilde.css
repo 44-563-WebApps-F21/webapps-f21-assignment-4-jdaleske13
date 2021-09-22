@@ -21,22 +21,8 @@ font-size: 14pt;
 color: black;
 }
 
-.prince {
-    color: midnightblue;
-}
-
-.baron {
-    color: orange;
-}
-
-.marq {
-    color: red;
-}
-
-.count {
-    color: steelblue;
-}
-
-.gen {
-    color: salmon;
-}
+.prince {color: midnightblue;}
+.baron {color: orange;}
+.marq {color: red;}
+.count {color: steelblue;}
+.gen {color: salmon;}
