@@ -26,3 +26,24 @@ color: black;
 .marq {color: red;}
 .count {color: steelblue;}
 .gen {color: salmon;}
+
+table {
+    border: solid;
+    color: black;
+    text-align: center;
+    border-collapse: separate;
+}
+
+table.collapsing {
+    border: solid;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 1em;
+    margin: 1em;
+    border: solid;
+    border-collapse: collapse;
+}
+
+
