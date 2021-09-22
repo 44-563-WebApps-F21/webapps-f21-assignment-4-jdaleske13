@@ -46,4 +46,7 @@ td, th {
     border-collapse: collapse;
 }
 
-
+.name:hover {
+    text-shadow: 3px 3px 4px red;
+    border: solid green;
+}
